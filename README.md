@@ -1,9 +1,26 @@
-Sentiment Analysis Project
+
+# Sentiment Analysis Project
+
+
+
+## Ali reza mohmmadi
+
+- [@github](https://github.com/ali-en-2000)
+- [@linkedin](https://www.linkedin.com/in/ali-reza-mohammadi-cv0281225233/)
+
+## Features
+
+- Text mining on comments 
+- Scraping comments
+
+
+# Sentiment Analysis Project
+
+
 
 This project performs sentiment analysis on comments scraped from LinkedIn posts. It consists of a frontend built using Nuxt.js and a Django backend.
 
 Frontend
-The frontend is located in the pages directory. It has:
 
 An index.vue file which contains templates for:
 Displaying username, email and password from the database
@@ -14,8 +31,13 @@ A script to call the backend API to get comments for a URL
 A template to display the received comments
 Styling for the template
 Styling handled by Tailwind CSS
+
+
+
+
 Backend
-The backend is a Django project located in the backend directory. It has:
+
+
 
 A crawler app which contains:
 linkedin_scraper.py to scrape comments from Linkedin using Selenium and BeautifulSoup

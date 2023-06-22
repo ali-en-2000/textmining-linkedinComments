@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: myfont;
+    src: url('../fonts/RobotoSlab-VariableFont_wght.ttf') format('.ttf');
+}
+body{
+    font-family: myfont;
+    color: rgb(26, 101, 1);
+}

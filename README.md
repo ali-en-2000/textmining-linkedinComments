@@ -20,7 +20,7 @@
 
 This project performs sentiment analysis on comments scraped from LinkedIn posts. It consists of a frontend built using Nuxt.js and a Django backend.
 
-Frontend
+## Frontend
 
 An index.vue file which contains templates for:
 Displaying username, email and password from the database
@@ -35,7 +35,7 @@ Styling handled by Tailwind CSS
 
 
 
-Backend
+## Backend
 
 
 
@@ -55,3 +55,12 @@ Delete all comments for a URL (deleteCommmentsView)
 Get a list of usernames and passwords (post_list)
 A db.sqlite3 database
 The project can scrape LinkedIn comments, apply text mining models on the comments and provide an API to access the data. Please let me know if you have any other questions!
+
+
+preview link:
+
+## Demo
+
+download description video :  [demo](https://drive.google.com/file/d/1WAHZlSM1ZpA8pb8x7P_YKtBSp9YEp1wu/view?usp=sharing)
+
+
